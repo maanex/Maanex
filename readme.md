@@ -2,6 +2,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Maanex&show_icons=true" />
 </a>
 <br>
+<br>
 <details>
   <summary>More</summary>
   <a href="https://maanex.me/">
