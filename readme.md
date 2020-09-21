@@ -44,4 +44,5 @@ An all-in-one Discord bot. Auto moderation, fun commands and literally everythin
 
 -->
 
-yo
+<!-- yo -->
+![:the_jam:](https://cdn.discordapp.com/emojis/745354525958996138.gif?v=1)
