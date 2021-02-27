@@ -45,4 +45,4 @@ An all-in-one Discord bot. Auto moderation, fun commands and literally everythin
 -->
 
 <!-- yo -->
-[![:the_jam:](https://cdn.discordapp.com/emojis/745354525958996138.gif?v=1)](https://maanex.me/)
+[![:the_jam:](https://cdn.discordapp.com/emojis/745354525958996138.gif?v=1)](https://github.com/Maanex/Maanex/blob/master/list.md)
