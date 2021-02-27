@@ -4,6 +4,8 @@
 
 **[maastr](https://github.com/Maanex/maastr)** custom text format parser
 
+**[paparsya](https://www.npmjs.com/package/paparsya)** localization string formater
+
 
 ## Utilities
 
